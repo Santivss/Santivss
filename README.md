@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY4ZDkyMjk0ZmZkMzNiN2EyNjhkOGFlNzEwOTg1OTZiZWRmMWUxMyZjdD1n/K3riFD9sDcgLCx0nFG/giphy.gif"
-    alt=""
     width="200"
   />
   <h1>Hello World</h1>
