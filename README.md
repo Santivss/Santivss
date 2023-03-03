@@ -13,6 +13,10 @@
 
 <div id="header" align="center">
   <a href="https://img.shields.io/endpoint?url=<URL>&style<STYLE>"></a>
+  <img
+    src="https://img.shields.io/endpoint?url=<URL>&style<STYLE>"
+    width="300"
+  />
 </div>
 
 
