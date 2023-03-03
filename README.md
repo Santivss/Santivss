@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img
     src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif"
-    width="200"
+    width="300"
   />
   <h1>Hello World</h1>
   <h3>
