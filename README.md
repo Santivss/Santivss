@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img
-    src="https://media.tenor.com/VpZ2Nf5gdRYAAAAC/pc-banging.gif"
+    src="https://media.tenor.com/-buzIaq-QeoAAAAC/code-coding.gif"
     width="200"
   />
   <h1>Hello World</h1>
