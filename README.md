@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY4ZDkyMjk0ZmZkMzNiN2EyNjhkOGFlNzEwOTg1OTZiZWRmMWUxMyZjdD1n/K3riFD9sDcgLCx0nFG/giphy.gif"
+    src="https://th.bing.com/th/id/OIP.MITpGupL_zlu92PU8lACygHaE8?pid=ImgDet&rs=1"
     width="200"
   />
   <h1>Hello World</h1>
