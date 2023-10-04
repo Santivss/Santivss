@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://santiagorodriguez-portfolio.netlify.app/assets/me_icon2k-1562099b.png"  />
+  <img height="350" src="https://santiagorodriguez-portfolio.netlify.app/assets/me_icon2k-24a1d426.png"  />
 </div>
 
 ###
